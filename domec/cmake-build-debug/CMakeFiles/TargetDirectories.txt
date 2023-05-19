@@ -1,0 +1,3 @@
+D:/文件/Clion项目/domec/cmake-build-debug/CMakeFiles/domec.dir
+D:/文件/Clion项目/domec/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/文件/Clion项目/domec/cmake-build-debug/CMakeFiles/rebuild_cache.dir
